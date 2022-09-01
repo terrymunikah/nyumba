@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651698117491",
+    "project_id": "nyumbani2-3dc74",
+    "storage_bucket": "nyumbani2-3dc74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651698117491:android:c3a2aa8ebafea3e1364306",
+        "android_client_info": {
+          "package_name": "com.example.nyumbani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651698117491-6rj9j977bb9d6l05hj7rtht0flumvcd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmms9QMCEL4szoOXaf7AnDSgJIyBvX35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651698117491-6rj9j977bb9d6l05hj7rtht0flumvcd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
